@@ -9,25 +9,22 @@ Weaviate uses state-of-the-art machine learning (ML) models to turn your data - 
 
 🎯 Key Features
 ```
+Software :
+Weaviate is an ML-first database engine
+Out-of-the-box modules for AI-powered searches, automatic classification, and LLM integration
+Full CRUD support
+Cloud-native, distributed system that runs well on Kubernetes
+Scales with your workloads
 
+Data :
+Weaviate is a fast, flexible vector database
+Use your own ML model or third party models
+Run locally or with an inference service
 
-    Software Engineers
-        Weaviate is an ML-first database engine
-        Out-of-the-box modules for AI-powered searches, automatic classification, and LLM integration
-        Full CRUD support
-        Cloud-native, distributed system that runs well on Kubernetes
-        Scales with your workloads
-
-    Data Engineers
-        Weaviate is a fast, flexible vector database
-        Use your own ML model or third party models
-        Run locally or with an inference service
-
-    Data Scientists
-        Seamless handover of Machine Learning models to engineers and MLOps
-        Deploy and maintain your ML models in production reliably and efficiently
-        Easily package custom trained models
-
+Data Scientists:
+Seamless handover of Machine Learning models to engineers and MLOps
+Deploy and maintain your ML models in production reliably and efficiently
+Easily package custom trained models
 ```
 
 🚀 
