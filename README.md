@@ -3,7 +3,7 @@
 
 ## Weaviate | Kubernetes ☸️
 Weaviate is a cloud-native, open source vector database that is robust, fast, and scalable.
-Weaviate uses state-of-the-art machine learning (ML) models to turn your data - text, images, and more - into a searchable vector database
+Weaviate uses state-of-the-art machine learning (ML) models to turn your data - text, images, and more - into a searchable vector database.
 
 
 🎯 Key Features
