@@ -8,22 +8,12 @@ Weaviate uses state-of-the-art machine learning (ML) models to turn your data - 
 
 🎯 Key Features
 ```
-🔌Software :
-Weaviate is an ML-first database engine
-Out-of-the-box modules for AI-powered searches, automatic classification, and LLM integration
-Full CRUD support
-Cloud-native, distributed system that runs well on Kubernetes
-Scales with your workloads
-
-🔌Data :
-Weaviate is a fast, flexible vector database
-Use your own ML model or third party models
-Run locally or with an inference service
-
-🔌Scientists:
-Seamless handover of Machine Learning models to engineers and MLOps
-Deploy and maintain your ML models in production reliably and efficiently
-Easily package custom trained models
+⚡ Fast Search Performance: Perform complex semantic searches over billions of vectors in milliseconds. Weaviate's architecture is built in Go for speed and reliability, ensuring your AI applications are highly responsive even under heavy load. See our ANN benchmarks for more info.
+🔌 Flexible Vectorization: Seamlessly vectorize data at import time with integrated vectorizers from OpenAI, Cohere, HuggingFace, Google, and more. Or you can import your own vector embeddings.
+🔍 Advanced Hybrid & Image Search: Combine the power of semantic search with traditional keyword (BM25) search, image search and advanced filtering to get the best results with a single API call.
+🤖 Integrated RAG & Reranking: Go beyond simple retrieval with built-in generative search (RAG) and reranking capabilities. Power sophisticated Q&A systems, chatbots, and summarizers directly from your database without additional tooling.
+📈 Production-Ready & Scalable: Weaviate is built for mission-critical applications. Go from rapid prototyping to production at scale with native support for horizontal scaling, multi-tenancy, replication, and fine-grained role-based access control (RBAC).
+💰 Cost-Efficient Operations: Radically lower resource consumption and operational costs with built-in vector compression. Vector quantization and multi-vector encoding reduce memory usage with minimal impact on search performance.
 ```
 
 🚀 
