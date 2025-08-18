@@ -4,8 +4,6 @@
 ## Weaviate | Kubernetes ☸️
 Weaviate is an open-source, cloud-native vector database that stores both objects and vectors, enabling semantic search at scale. It combines vector similarity search with keyword filtering, retrieval-augmented generation (RAG), and reranking in a single query interface. Common use cases include RAG systems, semantic and image search, recommendation engines, chatbots, and content classification.
 
-Weaviate supports two approaches to store vectors: automatic vectorization at import using integrated models (OpenAI, Cohere, HuggingFace, and others) or direct import of pre-computed vector embeddings. Production deployments benefit from built-in multi-tenancy, replication, RBAC authorization, and many other features.
-
 
 #### 🎯 Key Features:
 
